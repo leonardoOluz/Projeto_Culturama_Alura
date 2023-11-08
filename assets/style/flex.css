@@ -65,11 +65,6 @@
     .agenda__lista {
         justify-content: end;
     }
-
-    /*  Agenda */
-    /* .agenda__lista {
-        justify-content: end;
-    } */
 }
 
 @media (min-width: 1440px) {
